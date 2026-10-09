@@ -1,4 +1,4 @@
-//此页的域名都是可Ping通的,且是cloudflare的cdn节点,无论是否真的可用
+//此页的域名都是可Ping通的,且使用是cloudflare的cdn节点,无论是否真的可用
 
 www.shopify.com
 store.ubi.com
